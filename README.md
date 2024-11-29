@@ -8,10 +8,10 @@ Insomnia Spy is an advanced Android remote controller
 
 A few Features of InsomniaSpy V1 👁✅
 
-- Live Screen
+-Live Screen
 Watch the device's screen in real-time
 
-- Encrypted Connection
+-Encrypted Connection
 Transmit data through an encrypted connection
 
 -Listen Live Conversation
