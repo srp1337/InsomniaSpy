@@ -61,7 +61,6 @@ Make calls, record them, and view call history.
 
 [![Image](https://i.hizliresim.com/p8ivzmh.png)](https://hizliresim.com/p8ivzmh)
 
-Insomnia Spy Main Telegram channel for more information
-https://t.me/insomniaspy
+Insomnia Spy Main Telegram channel https://t.me/insomniaspy
 
 
