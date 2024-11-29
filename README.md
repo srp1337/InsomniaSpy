@@ -6,7 +6,7 @@ Insomnia Spy is an advanced Android remote controller
 
 [![Image](https://i.hizliresim.com/1ode8g8.jpg)](https://hizliresim.com/1ode8g8)
 
-A few Features of InsomniaSpy V1 👁✅
+A few Features of InsomniaSpy V1 👁
 
 -Live Screen
 Watch the device's screen in real-time
@@ -58,10 +58,6 @@ Access and browse all files on the device.
 
 -Place, record, and view call logs
 Make calls, record them, and view call history.
-
-
-
-
 
 [![Image](https://i.hizliresim.com/p8ivzmh.png)](https://hizliresim.com/p8ivzmh)
 
